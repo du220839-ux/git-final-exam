@@ -14,5 +14,11 @@ Ngày kết thúc: 21/10/2025
 9. Dọn dẹp và tổ chức lại dự án cá nhân.  
 10. Chuẩn bị cho bài thi cuối kỳ.
 
+<<<<<<< Updated upstream
 - Chuẩn bị cho bài kiểm tra cuối kỳ.
 - Ghi nhớ cách khôi phục file đã stash.
+=======
+- Học thêm về Git stash.
+- Ôn lại các lệnh merge và reset.
+- Thực hành nhiều hơn với branch và conflict.
+>>>>>>> Stashed changes
