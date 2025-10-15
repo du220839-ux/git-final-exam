@@ -1,4 +1,6 @@
-Hello, this is <hoang du>
+Hello, this is Dự Thạch Hoàng
+Xin chào, tôi là Dự Thạch Hoàng
+Conflict resolved on 14/10/2025
 
 Giới thiệu cá nhân:
 Tôi là Dự Thạch Hoàng, sinh viên năm 4 .
