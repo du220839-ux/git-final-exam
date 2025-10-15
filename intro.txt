@@ -13,3 +13,10 @@ Kỹ năng:
 1. Kỹ năng quản lý mạng cơ bản
 2. Cài đặt và cấu hình hệ điều hành
 3. Sử dụng Git và GitHub
+
+Kế hoạch học tập:
+- Hoàn thành môn học An toàn mạng.
+- Ôn luyện CCNA và thực hành cấu hình thiết bị thật.
+- Nâng cao kỹ năng Linux và scripting.
+- Tìm hiểu thêm về điện toán đám mây.
+- Tham gia các dự án nhóm để rèn kỹ năng teamwork.
