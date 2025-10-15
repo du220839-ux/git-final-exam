@@ -1,0 +1,3 @@
+• Git giúp quản lý phiên bản dễ dàng hơn.
+• Hỗ trợ làm việc nhóm hiệu quả thông qua branch.
+• Có thể quay lại phiên bản cũ khi cần thiết.
