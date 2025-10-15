@@ -1,3 +1,5 @@
 • Git giúp quản lý phiên bản dễ dàng hơn.
 • Hỗ trợ làm việc nhóm hiệu quả thông qua branch.
 • Có thể quay lại phiên bản cũ khi cần thiết.
+• Cần học kỹ để tránh sai sót khi merge.
+• GitHub là nền tảng phổ biến nhất cho dự án mã nguồn mở.
