@@ -1,0 +1,7 @@
+Tính năng: Quản lý lịch học tự động
+
+1. Theo dõi tiến độ học hàng ngày.
+2. Gửi thông báo nhắc học qua email.
+3. Hiển thị biểu đồ thời gian học.
+4. Cho phép thêm, sửa, xóa lịch học.
+5. Tích hợp với ứng dụng lịch.
