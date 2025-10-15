@@ -1,0 +1,22 @@
+Giới thiệu cá nhân:
+Tôi là Dự Thạch Hoàng, sinh viên năm 4 .
+Hiện tôi đang học tại Trường Đại học Nam Cần Thơ.
+Tôi yêu thích công nghệ và mong muốn trở thành kỹ sư mạng chuyên nghiệp.
+Tôi thích thử nghiệm phần mềm và tìm hiểu các công nghệ mới.
+
+Sở thích:
+1. Chơi cờ vua
+2. Uống cà phê và đọc sách
+3. Sửa chữa điện thoại
+
+Kỹ năng:
+1. Kỹ năng quản lý mạng cơ bản
+2. Cài đặt và cấu hình hệ điều hành
+3. Sử dụng Git và GitHub
+
+Kế hoạch học tập:
+- Hoàn thành môn học An toàn mạng.
+- Ôn luyện CCNA và thực hành cấu hình thiết bị thật.
+- Nâng cao kỹ năng Linux và scripting.
+- Tìm hiểu thêm về điện toán đám mây.
+- Tham gia các dự án nhóm để rèn kỹ năng teamwork.
