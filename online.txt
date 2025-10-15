@@ -1,3 +1,7 @@
 Đây là file tạo trực tiếp trên GitHub.
 Dòng này được thêm qua web editor.
 Kiểm tra tính đồng bộ giữa local và remote.
+
+Thêm dòng từ local machine.
+Đồng bộ file này với remote.
+
