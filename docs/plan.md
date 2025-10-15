@@ -14,3 +14,5 @@ Ngày kết thúc: 21/10/2025
 9. Dọn dẹp và tổ chức lại dự án cá nhân.  
 10. Chuẩn bị cho bài thi cuối kỳ.
 
+- Chuẩn bị cho bài kiểm tra cuối kỳ.
+- Ghi nhớ cách khôi phục file đã stash.
